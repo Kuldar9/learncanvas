@@ -7,3 +7,10 @@
 - Goblins lose health if shot by the player
 - Entities die when health reaches zero
 - Kill count tracking and respawn mechanics
+
+## Screenshots
+![Gameplay Screenshot 1](./Screenshot_1.png)
+*Screenshot showcasing gameplay scenario of fixed collision with walls, goblin, healthbar *
+
+![Gameplay Screenshot 2](./Screenshot_2.png)
+*Screenshot showcasing gameplay scenario of death animation*
